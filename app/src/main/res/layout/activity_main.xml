@@ -5,7 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="295dp"
@@ -13,4 +20,16 @@
         app:srcCompat="@drawable/congreso"
         tools:layout_editor_absoluteX="54dp"
         tools:layout_editor_absoluteY="126dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        mediador
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:text="Un congreso es una reunión o conferencia, generalmente periódica, donde los legisladores se reúnen para debatir cuestiones de diversa índole. Se compone de 3 elementos: moderador, mediador y partícipe. ... El "
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="506dp" />
+        tools:layout_editor_absoluteX="186dp"
+        tools:layout_editor_absoluteY="537dp" />
+</LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

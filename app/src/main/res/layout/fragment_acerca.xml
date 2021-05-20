@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".acerca">
+
+    <LinearLayout
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Agenda"
+        android:orientation="vertical">
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="MIS AGENDAS"
+            android:textAlignment="center"
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView96"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Titulo"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView955"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Expo Feria UPS"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView977"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Descripcion"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView978"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="exposicion de los proyectos que cada año se dan en la universidad politecnica salesiana"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView989"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Fecha"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView92"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="20/12/2020"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+
+        <TextView
+            android:id="@+id/textView9899"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text=""
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView4566"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Titulo"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView566"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Expo Feria UDA"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView96789"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Descripcion"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView990"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="exposicion de los proyectos que cada año se dan en la universidad del azuya"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView9098"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Fecha"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView925667"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="28/12/2020"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textViewd96122"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text=""
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textVdiew96R"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Titulo"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textdView93W"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Expo Feria Catolica"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView91add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Descripcion"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView923ad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="exposicion de los proyectos que cada año se dan en la universidad Catolica"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView915rs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="Fecha"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView92s358"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#FFFFFF"
+            android:text="16/12/2020"
+
+            android:textColor="#150A0A"
+            android:textIsSelectable="false"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</FrameLayout>
